@@ -1,0 +1,18 @@
+.image {
+	display: block;
+	margin: auto;
+	width: 300px;
+	
+}
+
+.imageText {
+	text-align: center;
+	font-size: 10px;
+	/*border: 2px solid red;*/
+	padding-bottom: 20px;
+}
+.para1 {
+	font-family: Sans-serif;
+	display: inline-block;
+	margin: 20px;
+}
